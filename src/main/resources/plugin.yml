@@ -1,0 +1,5 @@
+name: Bewerbung
+version: '${project.version}'
+main: me.moontimer.bewerbung.Bewerbung
+authors: [ MoonTimer ]
+description: BewerbungsPlugin
